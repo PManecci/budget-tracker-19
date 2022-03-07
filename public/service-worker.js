@@ -4,7 +4,7 @@ const CACHE_NAME = APP_PREFIX + VERSION;
 
 self.addEventListener('install', function (e){
     const FILES_TO_CACHE = [
-        "./index.html",
+        ".index.html",
         "./css/styles.css",
         "./icons/icon-72x72.png",
         "./icons/icon-96x96.png",
