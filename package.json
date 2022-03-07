@@ -1,0 +1,27 @@
+{
+  "name": "budget-tracker-19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PManecci/budget-tracker-19.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PManecci/budget-tracker-19/issues"
+  },
+  "homepage": "https://github.com/PManecci/budget-tracker-19#readme",
+  "devDependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4",
+    "morgan": "^1.10.0"
+  }
+}
