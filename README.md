@@ -2,7 +2,7 @@
 
 ## Description
 
-Added offline functinoality to a simple 
+Added offline functionality to a simple budget tracking app
 
 ## Table Of Contents
 
